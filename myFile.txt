@@ -2,3 +2,6 @@ Hi all, Good Morning
 this is new Branch edit
 master changed line1
 master changed line2
+login feature line 1 updated
+login feature line 2 updated
+
