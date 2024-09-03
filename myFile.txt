@@ -1,2 +1,4 @@
 Hi all, Good Morning
 this is new Branch edit
+master changed line1
+master changed line2
